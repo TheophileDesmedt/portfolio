@@ -1,14 +1,14 @@
 export const state = () => ({
-    posts: '[]' //Array vide qui va contenir les posts
+    posts:[]
 })
 
 // state contient les informations de l'application
 
-// export const getters = {
-//     getterValue: state => {
-//         return state.value
-//     }
-// }
+export const getters = {
+    getterValue: state => {
+        return state.value
+    }
+}
 
 export const mutations = {
     updatePosts: (state, posts) => {
