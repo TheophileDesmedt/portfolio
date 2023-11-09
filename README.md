@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # portfolio_wp
 
 ## Build Setup
@@ -67,3 +68,10 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# portfolio
+Mon portfolio
+
+
+git remote add origin git@github.com:TheophileDesmedt/portfolio.git
+>>>>>>> 3b259bb3c4b996dba7b9654fb415007e6175887a
