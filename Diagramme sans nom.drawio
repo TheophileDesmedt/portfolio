@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T09:35:10.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="i9dkTiTvcsCFwrKrDMkT" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T09:36:54.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="JI0B4-OyS3eHA_cElBPQ" version="23.1.2" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1823" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2283" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-426" y="-250" width="497" height="254" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="270" width="510" height="30" as="geometry" />
+          <mxGeometry x="280" y="170" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OyWZJipFn2IaJXIy7wJH-8" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.quick_contact;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-270" y="190" width="150" height="165" as="geometry" />
@@ -104,13 +104,13 @@
           <mxGeometry x="280" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OyWZJipFn2IaJXIy7wJH-97" value="CV" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="240" width="110" height="30" as="geometry" />
+          <mxGeometry x="390" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OyWZJipFn2IaJXIy7wJH-98" value="ARTICLES" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="110" height="30" as="geometry" />
+          <mxGeometry x="510" y="240" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OyWZJipFn2IaJXIy7wJH-99" value="hello@theophile.dev" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="240" width="180" height="30" as="geometry" />
+          <mxGeometry x="640" y="240" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
